@@ -1,4 +1,14 @@
-# Notebooks 0.9.0 (21 Aug 2019)
+# Notebooks 0.10.0 (TBD)
+
+## New Features
+
+- PR #216 New cuSpatial trajectory clustering notebook
+
+## Improvements
+
+## Bug Fixes
+
+# Notebooks 0.9.0 (TBD)
 
 ## New Features
 
